@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575692122 source:c:\users\sys26\desktop\crt day 2 c\crt day 2\3nums big.c
+	<stdio.h>
+
+1575692099 source:c:\users\sys26\desktop\crt day 2 c\crt day 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
